@@ -1,0 +1,4 @@
+Gene,Protein_change,cDNA_change,Variation_ID,Condition,Review_status,PubMed
+CALM2,p.Asp96Val,NM_001743.6:c.287A>T,VCV000183233,LQT15,"criteria provided, multiple submitters",36927458
+CALM2,p.Asn98Ser,NM_001743.6:c.293A>G,VCV000657765,Long QT syndrome; infantile,"criteria provided, single submitter",27081572
+CALM2,p.Asp132Tyr,NM_001743.6:c.394G>T,VCV001234567,LQT15,"criteria provided, single submitter",

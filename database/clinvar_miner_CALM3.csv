@@ -1,0 +1,3 @@
+Gene,Protein_change,cDNA_change,Variation_ID,Condition,Review_status,PubMed
+CALM3,p.Asp130Gly,NM_005184.4:c.389A>G,VCV000955533,LQT16,"criteria provided, single submitter",25617067
+CALM3,p.Ala103Val,NM_005184.4:c.308C>T,VCV000853861,CPVT6,"criteria provided, single submitter",27516456
