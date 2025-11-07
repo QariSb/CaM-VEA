@@ -92,4 +92,4 @@ If you use this dataset or code, please cite:
 
 ### 🙌 Acknowledgments
 Project maintained by **Abdul Basit (QariSb)**.  
-Developed with the assistance of Priya Prerna for reproducible computational biology workflows.
+Developed with the assistance of Dr Prerna Priya for reproducible computational biology workflows.
